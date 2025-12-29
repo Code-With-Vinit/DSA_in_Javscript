@@ -49,5 +49,6 @@ console.log(stack1.isEmpty());
 stack1.display();
 stack1.push(30);
 console.log(stack1.size());
+console.log(checking);
 
 
